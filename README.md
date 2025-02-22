@@ -1,5 +1,6 @@
-# Data-Sampling
+# Summary
 
+## Data Sampling
 The Data Sampling notebook is to sample the images into training and validation
 
 1. Create training data and validation data folder
