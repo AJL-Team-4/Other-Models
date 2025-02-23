@@ -9,3 +9,6 @@ The Data Sampling notebook is to sample the images into training and validation
 4. Save training and validation images into training and validation folder
 
 Note: When running the notebook, it creates the training and the validation folder. If you want to sample the dataset again, delete the training and the validation folder before sampling.
+
+## Image with Metadata
+The metadata notebook is using image embedding with metadata embedding to classify images
